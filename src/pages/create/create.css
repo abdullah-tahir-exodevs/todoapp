@@ -1,0 +1,19 @@
+.title {
+  margin :1rem 0 0 0 !important;
+}
+.description {
+  margin :1rem 0 !important;
+}
+.description > div > textarea {
+  height: 150px !important;
+}
+
+.createList {
+    color: #000;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: justify;
+    margin: 8px 8px;
+  }

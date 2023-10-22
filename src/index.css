@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-color: #f0f0f0 !important;
+  font-family: "Alexandria", sans-serif;
+}
+
+code {
+  font-family: "Alexandria", sans-serif;
+}
+.linkInfo {
+  text-decoration: none;
+  color: white;
+}
+.linkInfo > button {
+  color: white;
+}
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+  color: black;
+}
+.statusGreen {
+  background-color: #3cb043;
+  width: fit-content;
+  color: white;
+  border-radius: 8px;
+  padding: 0.4rem 1rem;
+  text-transform: capitalize;
+}
+.statusRed {
+  background-color: #f45607;
+  width: fit-content;
+  color: white;
+  border-radius: 8px;
+  padding: 0.4rem 1rem;
+  text-transform: capitalize;
+}
